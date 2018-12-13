@@ -1,0 +1,8 @@
+com\beam\hotels\services\crazy_hotels\CrazyHotelsService.class
+com\beam\hotels\services\available_hotels\AvailableHotelServiceImpl.class
+com\beam\hotels\services\hotel\HotelService.class
+com\beam\hotels\services\best_hotels\BestHotelsService.class
+com\beam\hotels\service_locator\ServiceLocator.class
+com\beam\hotels\services\crazy_hotels\CrazyHotelsServiceImpl.class
+com\beam\hotels\services\best_hotels\BestHotelsServiceImpl.class
+com\beam\hotels\services\available_hotels\AvailableHotelService.class

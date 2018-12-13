@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: BeamHotelsDAO
+Implementation-Version: 0.1
+Built-By: aabdelraouf
+Implementation-Vendor-Id: com.beam.hotel
+Build-Jdk: 1.8.0_191
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/BeamHotels/BeamHotelsDAO
+Created-By: Maven Integration for Eclipse
+

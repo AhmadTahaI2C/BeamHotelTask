@@ -1,0 +1,9 @@
+com\beam\hotels\entity\hotel\HotelRate.class
+com\beam\hotels\entity\hotel\Hotel.class
+com\beam\hotels\entity\hotel\response\AvailableHotelResponse.class
+com\beam\hotels\entity\hotel\response\CrazyHotelResponse.class
+com\beam\hotels\entity\hotel\response\BestHotelResponse.class
+com\beam\hotels\entity\hotel\response\HotelResponse.class
+com\beam\hotels\entity\search_criteria\hotel\HotelSearchCriteria.class
+com\beam\hotels\entity\hotel\AvailableTime.class
+com\beam\hotels\entity\hotel\HotelAmenities.class
